@@ -5,7 +5,7 @@
 
 O Ministério da Saúde, por meio do Sistema de Informação do Programa Nacional de Imunizações (SI-PNI), disponibiliza dados referentes à Campanha Nacional de Vacinação contra Covid-19. A base cobre toda área nacional desde o dia 18 de janeiro de 2021 e teve sua criação em 5 de setembro de 2022 e sua última atualização no dia 8 de setembro de 2022. 
 
-A proposta elaborada pelo grupo será a análise do dataset referente a
+A proposta elaborada, visa a análise do dataset referente a
 Campanha Nacional de Vacinação contra COVID-19, em partida, a finalidade será a
 disponibilização dos registros de vacinação contra Covid-19, sem identificação do
 cidadão (anonimizados), contidos na Rede Nacional de Dados em Saúde (RNDS),
