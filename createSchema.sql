@@ -10,7 +10,7 @@ CREATE TABLE dim_paciente(
     paciente_nacionalidade VARCHAR(30),
     paciente_endereco_nmPais VARCHAR(30),
     paciente_endereco_uf VARCHAR(30),
-    paciente_endereco_municipio VARCHAR(30),
+    paciente_endereco_municipio VARCHAR(120),
     paciente_endereco_cep VARCHAR(30)
 );
 
